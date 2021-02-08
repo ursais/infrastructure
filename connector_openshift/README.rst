@@ -14,10 +14,10 @@ Openshift Connector
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Finfrastructure-lightgray.png?logo=github
-    :target: https://github.com/OCA/infrastructure/tree/13.0/connector_openshift
+    :target: https://github.com/OCA/infrastructure/tree/14.0/connector_openshift
     :alt: OCA/infrastructure
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/infrastructure-13-0/infrastructure-13-0-connector_openshift
+    :target: https://translation.odoo-community.org/projects/infrastructure-14-0/infrastructure-14-0-connector_openshift
     :alt: Translate me on Weblate
 
 |badge1| |badge2| |badge3| |badge4| 
@@ -40,7 +40,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/infrastructure/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/infrastructure/issues/new?body=module:%20connector_openshift%0Aversion:%2013.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/infrastructure/issues/new?body=module:%20connector_openshift%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -57,6 +57,7 @@ Contributors
 
 * Maxime Chambreuil <mchambreuil@opensourceintegrators.com>
 * Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
+* Chandresh Thakkar <cthakkar@opensourceintegrators.com>
 
 Maintainers
 ~~~~~~~~~~~
@@ -79,6 +80,6 @@ Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-max3903| 
 
-This module is part of the `OCA/infrastructure <https://github.com/OCA/infrastructure/tree/13.0/connector_openshift>`_ project on GitHub.
+This module is part of the `OCA/infrastructure <https://github.com/OCA/infrastructure/tree/14.0/connector_openshift>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
